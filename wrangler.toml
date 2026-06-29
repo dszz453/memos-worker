@@ -9,15 +9,15 @@ run_worker_first = [
 
 [[d1_databases]]
 binding = "DB"
-database_id = "3f98a4bd-360e-4355-a70a-cd34342b8e2f"
-database_name = "notes-dbs"
+database_id = "3f729546-d709-41c7-b30f-b352f390530a"
+database_name = "memonotes"
 
 [[kv_namespaces]]
 binding = "NOTES_KV"
-id = "135886384170427a99432f8c077a657f"
+id = "ac7ac49d98ff419a87078e3666d18b8e"
 preview_id = ""
 
 [[r2_buckets]]
 binding = "NOTES_R2_BUCKET"
-bucket_name = "notes-r2-bucket"
+bucket_name = "memonotes"
 preview_bucket_name = "notes-files-preview"
