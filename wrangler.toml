@@ -9,7 +9,7 @@ run_worker_first = [
 
 [[d1_databases]]
 binding = "DB"
-database_id = "3f729546-d709-41c7-b30f-b352f390530a"
+database_id = "08350042-80d3-4127-adaa-58acb4161af3"
 database_name = "memonotes"
 
 [[kv_namespaces]]
